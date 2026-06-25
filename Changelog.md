@@ -1,7 +1,9 @@
 ## Lunaris AOSP v3.11
 
 **Status:** Unofficial
+
 **Security Patch:** June 2026
+
 **Maintainer:** SathiyaSenpai
 
 ### Device Changelog
