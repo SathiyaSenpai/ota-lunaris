@@ -1,22 +1,24 @@
 {
   "response": [
     {
-      "datetime": 1782432000,
-      "filename": "Test-Lunaris-GMS-Update.zip",
-      "id": "test_gms_hash_12345",
+      "datetime": 1782381805,
+      "device": "avalon",
+      "filename": "Lunaris-AOSP-avalon-Community-3.11-GMS-2026062510.zip",
+      "id": "6ff1a8a8474f9cf11889e8469cbe8456",
       "romtype": "GMS",
-      "size": 1048576,
-      "url": "https://pub-static.fotor.com/assets/projects/pages/d592663111f14ec0b40eb42f9b8973b5/fotor-071a1795ca1d4a0f8bfdfcbdb9d5e396.jpg",
-      "version": "3.11"
+      "size": 3852902161,
+      "url": "hhttps://sourceforge.net/projects/lunarisaosp-avalon/files/lunaris_v3.11/24.06.2026/GMS/Lunaris-AOSP-avalon-Community-3.11-GMS-2026062510.zip/download",
+      "version": "3.12"
     },
     {
-      "datetime": 1782432000,
+      "datetime": 1811808000,
+      "device": "avalon",
       "filename": "Test-Lunaris-Vanilla-Update.zip",
-      "id": "test_vanilla_hash_67890",
+      "id": "6ff1a8a8474f9cf11889e8469cbe8789",
       "romtype": "VANILLA",
       "size": 1048576,
-      "url": "https://pub-static.fotor.com/assets/projects/pages/d592663111f14ec0b40eb42f9b8973b5/fotor-071a1795ca1d4a0f8bfdfcbdb9d5e396.jpg",
-      "version": "3.11"
+      "url": "https://sourceforge.net/projects/lunarisaosp-avalon/files/lunaris_v3.11/24.06.2026/Lunaris-AOSP-avalon-Community-3.11-VANILLA-2026062516.zip/download",
+      "version": "3.12"
     }
   ]
 }
