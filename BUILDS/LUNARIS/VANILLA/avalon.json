@@ -13,7 +13,7 @@
       "version": "3.11",
       "buildtype": "user",
       "forum": "https://xdaforums.com/t/rom-unofficial-avalon-vanilla-lunaris-aosp-for-oneplus-nord-4.4792967/#post-90655809",
-      "gapps": "yes",
+      "gapps": "no",
       "firmware": "",
       "modem": "",
       "bootloader": "",
