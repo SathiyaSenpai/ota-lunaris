@@ -1,14 +1,28 @@
 {
   "response": [
     {
-      "datetime": 1782381803,
+      "maintainer": "SATHIYA_SENPAI",
+      "oem": "OnePlus",
       "device": "avalon",
-      "filename": "Lunaris-AOSP-avalon-Community-3.11-GMS-2026062510.zip",
-      "id": "6ff1a8a8474f9cf11889e8469cbe8896",
-      "romtype": "GMS",
-      "size": 3852902161,
-      "url": "https://sourceforge.net/projects/lunarisaosp-avalon/files/lunaris_v3.11/24.06.2026/GMS/Lunaris-AOSP-avalon-Community-3.11-GMS-2026062510.zip/download",
-      "version": "3.11"
+      "filename": "Lunaris-AOSP-avalon-Community-3.11-VANILLA-2026062516.zip",
+      "download": "https://sourceforge.net/projects/lunarisaosp-avalon/files/lunaris_v3.11/24.06.2026/Lunaris-AOSP-avalon-Community-3.11-VANILLA-2026062516.zip/download",
+      "timestamp": 2026062516,
+      "md5": "5a0b4f94e9e9eaa9ffffd78b79a6ca11",
+      "sha256": "",
+      "size": 2826515924,
+      "version": "3.11",
+      "buildtype": "user",
+      "forum": "https://xdaforums.com/t/rom-unofficial-avalon-vanilla-lunaris-aosp-for-oneplus-nord-4.4792967/#post-90655809",
+      "gapps": "yes",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://github.com/sponsors/SathiyaSenpai",
+      "telegram": "https://t.me/sathiya_guild",
+      "dt": "https://github.com/SathiyaSenpai/android_device_oneplus_avalon",
+      "common-dt": "https://github.com/SathiyaSenpai/android_device_oneplus_sm8650",
+      "kernel": "https://github.com/SathiyaSenpai/android_kernel_oneplus_sm8650"
     }
   ]
 }
